@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48938bb7-5605-410b-8daf-a6c2e21dd9bb</dc:identifier>
+        <dc:title>Mrs. Dalloway</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Virginia Woolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;As Clarissa Dalloway walks through London on a fine June morning, a sky-writing plane captures her attention. Crowds stare upwards to decipher the message while the plane turns and loops, leaving off one letter, picking up another. Like the airplane's swooping path, Virginia Woolf's &lt;em&gt;Mrs. Dalloway&lt;/em&gt; follows Clarissa and those whose lives brush hers--from Peter Walsh, whom she spurned years ago, to her daughter Elizabeth, the girl's angry teacher, Doris Kilman, and war-shocked Septimus Warren Smith, who is sinking into madness.&lt;/p&gt;&lt;p&gt;As Mrs. Dalloway prepares for the party she is giving that evening, a series of events intrudes on her composure. Her husband is invited, without her, to lunch with Lady Bruton (who, Clarissa notes anxiously, gives the most amusing luncheons). Meanwhile, Peter Walsh appears, recently from India, to criticize and confide in her. His sudden arrival evokes memories of a distant past, the choices she made then, and her wistful friendship with Sally Seton.&lt;/p&gt;&lt;p&gt;Woolf then explores the relationships between women and men, and between women, as Clarissa muses, "It was something central which permeated; something warm which broke up surfaces and rippled the cold contact of man and woman, or of women together.... Her relation in the old days with Sally Seton. Had not that, after all, been love?" While Clarissa is transported to past afternoons with Sally, and as she sits mending her green dress, Warren Smith catapults desperately into his delusions. Although his troubles form a tangent to Clarissa's web, they undeniably touch it, and the strands connecting all these characters draw tighter as evening deepens. As she immerses us in each inner life, Virginia Woolf offers exquisite, painful images of the past bleeding into the present, of desire overwhelmed by society's demands. &lt;em&gt;--Joannie Kervran Stangeland&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Mrs. Dalloway was the first novel to split the atom. If the novel before Mrs. Dalloway aspired to immensities of scope and scale, to heroic journeys across vast landscapes, with Mrs. Dalloway Virginia Woolf insisted that it could also locate the enormous within the everyday; that a life of errands and party-giving was every bit as viable a subject as any life lived anywhere; and that should any human act in any novel seem unimportant, it has merely been inadequately observed. The novel as an art form has not been the same since. Mrs. Dalloway also contains some of the most beautiful, complex, incisive and idiosyncratic sentences ever written in English, and that alone would be reason enough to read it. It is one of the most moving, revolutionary artworks of the twentieth century."&lt;br /&gt;--Michael Cunningham, author of The Hours  &lt;/p&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156030359</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Psychological Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fiction - General</dc:subject>
+        <dc:subject>Triangles (Interpersonal relations)</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>First loves</dc:subject>
+        <dc:subject>Married women</dc:subject>
+        <dc:subject>Family Life</dc:subject>
+        <dc:subject>London (England)</dc:subject>
+        <dc:subject>Middle-aged women</dc:subject>
+        <dc:subject>Triangles (Interpersonal relat</dc:subject>
+        <dc:subject>Suicide victims</dc:subject>
+        <dc:subject>Domestic Fiction</dc:subject>
+        <dc:subject>Middle aged women</dc:subject>
+        <dc:subject>Regret</dc:subject>
+        <dc:subject>Parties</dc:subject>
+        <meta content="{&quot;Virginia Woolf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-07-01T02:26:15+00:00" name="calibre:timestamp"/>
+        <meta content="Mrs. Dalloway" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mrs. Dalloway - Virginia Woolf.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

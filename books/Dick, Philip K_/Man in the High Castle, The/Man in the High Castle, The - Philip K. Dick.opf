@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71803704-4704-44b5-9e3e-725b5d078629</dc:identifier>
+        <dc:title>The Man in the High Castle</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-24T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;“The single most resonant and carefully imagined book of Dick’s career.” – &lt;em&gt;New York Times&lt;/em&gt;   &lt;/p&gt;
+&lt;p&gt;It's America in 1962. Slavery is legal once again. The few Jews who still survive hide under assumed names. In San Francisco, the &lt;em&gt;I Ching&lt;/em&gt; is as common as the &lt;em&gt;Yellow Pages&lt;/em&gt;. All because some twenty years earlier the United States lost a war—and is now occupied by Nazi Germany and Japan.   &lt;/p&gt;
+&lt;p&gt;This harrowing, Hugo Award-winning novel is the work that established Philip K. Dick as an innovator in science fiction while breaking the barrier between science fiction and the serious novel of ideas. In it Dick offers a haunting vision of history as a nightmare from which it may just be possible to wake.   &lt;/p&gt;
+&lt;p&gt;Winner of the Hugo Award   &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Dick's Hugo Award-winning 1962 alternative history considers the question of what would have happened if the Allied Powers had lost WWII. Some 20 years after that loss, the United States and much of the world has now been split between Japan and Germany, the major hegemonic states. But the tension between these two powers is mounting, and this stress is playing out in the western U.S. Through a collection of characters in various states of posing (spies, sellers of falsified goods, others with secret identities), Dick provides an intriguing tale about life and history as it relates to authentic and manufactured reality. Tom Weiner reveals an impressive vocal range that delivers the host of characters with distinct culture, class and gender personas, which helps to sort the various plot strands. His prose reading is engaging, though sometimes lacks sufficient emphasis and energy. &lt;br&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;The most brilliant sci-fi mind on any planet Rolling Stone California's own William Blake. Visionary and prophet Daily Telegraph &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Mariner Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780547572482</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5aBwki0xmZEC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0547572484</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Alternative History</dc:subject>
+        <meta content="{&quot;Philip K. Dick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-06-05T20:13:56+00:00" name="calibre:timestamp"/>
+        <meta content="Man in the High Castle, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Man in the High Castle, The - Philip K. Dick.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

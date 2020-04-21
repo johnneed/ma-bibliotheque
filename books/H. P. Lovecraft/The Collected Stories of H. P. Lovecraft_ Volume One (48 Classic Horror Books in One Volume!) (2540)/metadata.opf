@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a6a3680-5452-47a1-b360-5958ce07a105</dc:identifier>
+        <dc:title>The Collected Stories of H. P. Lovecraft: Volume One (48 Classic Horror Books in One Volume!)</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-21T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;---- NOTE: This edition has a linked "Table of Contents" and has been beautifully formatted (searchable and interlinked) to work on your Amazon e-book reade or your iPod e-book reader. -----   &lt;/p&gt;
+&lt;p&gt;From the mind of pulp great, H.P. Lovecraft.   &lt;/p&gt;
+&lt;p&gt;Lovecraft's major inspiration and invention was cosmic horror: the idea that life is incomprehensible to human minds and that the universe is fundamentally alien.  &lt;/p&gt;
+&lt;p&gt;He's developed a cult following for his Cthulhu Mythos, a series of loosely interconnected fictions featuring a pantheon of human-nullifying entities, as well as the Necronomicon, a fictional grimoire of magical rites and forbidden lore.  &lt;/p&gt;
+&lt;p&gt;His works were deeply pessimistic and cynical, challenging the values of Enlightenment, Romanticism, and Christian humanism.  &lt;/p&gt;
+&lt;p&gt;-----48 Stories included in this volume&lt;br&gt;
+The Beast in the Cave;&lt;br&gt;
+The Alchemist;&lt;br&gt;
+The Tomb;&lt;br&gt;
+Dagon;&lt;br&gt;
+A Reminiscence of Dr. Samuel Johnson;&lt;br&gt;
+Sweet Ermengarde;&lt;br&gt;
+Polaris;&lt;br&gt;
+The Green Meadow;&lt;br&gt;
+Beyond the Wall of Sleep;&lt;br&gt;
+Memory&lt;br&gt;
+Old Bugs;&lt;br&gt;
+The Transition of Juan Romero;&lt;br&gt;
+The White Ship;&lt;br&gt;
+The Doom that Came to Sarnath;&lt;br&gt;
+The Statement of Randolph Carter;&lt;br&gt;
+The Terrible Old Man;&lt;br&gt;
+The Tree;&lt;br&gt;
+The Cats of Ulthar;&lt;br&gt;
+The Temple;&lt;br&gt;
+Facts Concerning the Late Arthur Jermyn;&lt;br&gt;
+The Street;&lt;br&gt;
+Poetry and the Gods;&lt;br&gt;
+Celephais;&lt;br&gt;
+From Beyond;&lt;br&gt;
+Nyarlathotep;&lt;br&gt;
+The Picture in the House;&lt;br&gt;
+The Crawling Chaos;&lt;br&gt;
+Ex Oblivione;&lt;br&gt;
+The Nameless City;&lt;br&gt;
+The Quest of Iranon;&lt;br&gt;
+The Moon-Bog;&lt;br&gt;
+The Outsider;&lt;br&gt;
+The Other Gods;&lt;br&gt;
+The Music of Erich Zann;&lt;br&gt;
+Herbet West: Reanimator;&lt;br&gt;
+Hypnos;&lt;br&gt;
+What the Moon Brings;&lt;br&gt;
+Azathoth;&lt;br&gt;
+The Horror at Martin's Beach;&lt;br&gt;
+The Hound;&lt;br&gt;
+The Lurking Fear;&lt;br&gt;
+The Rats in the Walls;&lt;br&gt;
+The Unnamable;&lt;br&gt;
+The Festival;&lt;br&gt;
+The Shunned House;&lt;br&gt;
+The Horror at Red Hook;&lt;br&gt;
+He;&lt;br&gt;
+In the Vault ----   &lt;/p&gt;
+&lt;p&gt;Full of intrigue, romance and adventure, this collection is a must for pulp literature fans!&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>ignacio hills press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B001LRPX5I</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Genre Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Anthologies</dc:subject>
+        <dc:subject>Occult</dc:subject>
+        <dc:subject>Short Stories &amp; Anthologies</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Paranormal &amp; Urban</dc:subject>
+        <dc:subject>Superheroes</dc:subject>
+        <dc:subject>Anthologies &amp; Collections</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Anthologies &amp; Short Stories</dc:subject>
+        <dc:subject>Superhero</dc:subject>
+        <meta content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-06-05T20:13:54+00:00" name="calibre:timestamp"/>
+        <meta content="Collected Stories of H. P. Lovecraft: Volume One (48 Classic Horror Books in One Volume!), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

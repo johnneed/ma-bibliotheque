@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1931</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab5cd261-464d-4220-83ad-ea20313e11b4</dc:identifier>
+        <dc:title>Orlando</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Virginia Woolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-03-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;Orlando is Sally Potter's bold, unsentimental re-working of Virginia Woolf's classic novel in which an innocent aristocrat journeys through 400 years of English history - first as a man, then as a woman. The film has won more than twenty international awards and enjoyed considerable box-office success around the world. Addressing contemporary concerns about gender and identity, the screenplay is remarkably true to the spirit of Virginia Woolf. But it also skilfully adapts the original story to give it a striking, cinematic form. How Sally Potter has achieved this is described in the book's Introduction, which outlines the process by which Woolf's novel has been transformed into Potter's film.&lt;/p&gt;</dc:description>
+        <dc:publisher>Faber and Faber</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780571172955</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Film &amp; Video</dc:subject>
+        <dc:subject>Performing Arts</dc:subject>
+        <dc:subject>Screenplays</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Orlando (Motion picture)</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta content="{&quot;Virginia Woolf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-01T02:26:14+00:00" name="calibre:timestamp"/>
+        <meta content="Orlando" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Orlando - Virginia Woolf.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

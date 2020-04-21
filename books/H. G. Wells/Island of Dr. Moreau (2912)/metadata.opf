@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2912</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcb68eab-01b9-4ee0-aa97-aa01279bb2c7</dc:identifier>
+        <dc:title>Island of Dr. Moreau</dc:title>
+        <dc:creator opf:file-as="Wells, H. G." opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;"The study of Nature makes a man at last as remorseless as Nature." This large print edition of H. G. Wells' classic best-seller is printed on high quality paper with an attractive, durable cover.&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;A shipwreck in the South Seas, a palm-tree paradise where a mad doctor conducts vile experiments, animals that become human and then "beastly" in ways they never were before--it's the stuff of high adventure. It's also a parable about Darwinian theory, a social satire in the vein of Jonathan Swift (&lt;em&gt;Gulliver's Travels&lt;/em&gt;), and a bloody tale of horror. Or, as H. G. Wells himself wrote about this story, "&lt;em&gt;The Island of Dr. Moreau&lt;/em&gt; is an exercise in youthful blasphemy. Now and then, though I rarely admit it, the universe projects itself towards me in a hideous grimace. It grimaced that time, and I did my best to express my vision of the aimless torture in creation." This colorful tale by the author of &lt;em&gt;The Time Machine&lt;/em&gt;, &lt;em&gt;The Invisible Man&lt;/em&gt;, and &lt;em&gt;The War of the Worlds&lt;/em&gt; lit a firestorm of controversy at the time of its publication in 1896. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p class="description"&gt;
+
+
+&lt;/p&gt;&lt;p&gt;“&lt;em&gt;The Island of Dr. Moreau&lt;/em&gt; takes us into an abyss of human nature. This book is a superb piece of storytelling.”&lt;br&gt;
+—&lt;strong&gt;V. S. Pritchett&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Quiet Vision Pub</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">157646508X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aqttPgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781576465080</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <meta content="{&quot;H. G. Wells&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-07-01T02:26:25+00:00" name="calibre:timestamp"/>
+        <meta content="Island of Dr. Moreau" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

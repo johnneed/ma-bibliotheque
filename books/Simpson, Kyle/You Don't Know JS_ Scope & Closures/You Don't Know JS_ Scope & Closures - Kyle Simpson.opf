@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7251f359-957f-4025-83c2-4a2c5dfd489e</dc:identifier>
+        <dc:title>You Don't Know JS: Scope &amp; Closures</dc:title>
+        <dc:creator opf:file-as="Simpson, Kyle" opf:role="aut">Kyle Simpson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. This concise yet in-depth guide takes you inside scope and closures, two core concepts you need to know to become a more efficient and effective JavaScript programmer. You’ll learn how and why they work, and how an understanding of closures can be a powerful part of your development skillset.Like other books in the "You Don’t Know JS" series, Scope and Closures dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can achieve true JavaScript mastery.Learn about scope, a set of rules to help JavaScript engines locate variables in your codeGo deeper into nested scope, a series of containers for variables and functionsExplore function- and block-based scope, “hoisting”, and the patterns and benefits of scope-based hidingDiscover how to use closures for synchronous and asynchronous tasks, including the creation of JavaScript libraries&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449335540</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">25AEAwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <meta content="{&quot;Kyle Simpson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-03T05:44:25+00:00" name="calibre:timestamp"/>
+        <meta content="You Don't Know JS: Scope &amp; Closures" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="You Don't Know JS_ Scope &amp; Closures - Kyle Simpson.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

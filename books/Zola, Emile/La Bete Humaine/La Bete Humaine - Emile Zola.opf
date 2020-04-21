@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59571861-46f0-4565-b9f4-4ad1dc3a347e</dc:identifier>
+        <dc:title>La Bête Humaine</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-25T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;em&gt;La Bête humaine&lt;/em&gt; (1890), the seventeenth novel in the Rougon-Macquart series, is one of Zola's most violent and explicit works. On one level a tale of murder, passion, and possession, it is also a compassionate study of individuals derailed by atavistic forces beyond their control. This new translation captures Zola's fast-paced yet deliberately dispassionate style, while the introduction and detailed notes place the novel in its social, historical, and literary context.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Series: &lt;/strong&gt;For over 100 years &lt;strong&gt;Oxford World's Classics&lt;/strong&gt; has made available the broadest spectrum of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, voluminous notes to clarify the text, up-to-date bibliographies for further study, and much more.  &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;`with each volume having an introduction by an acknowledged expert, and exhaustive notes, the World's Classics are surely the most desirable series and, all-round, the best value for money' Oxford Times &lt;/p&gt;
+&lt;h3&gt;Language Notes&lt;/h3&gt;
+&lt;p&gt;Text: English (translation)&lt;br&gt;
+Original Language: French &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780199538669</dc:identifier>
+        <dc:identifier opf:scheme="URN">urn:uuid:a7f3d04c-2218-11de-8d27-001cc0a62c0b</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0199538662</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romans Classiques</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-07-06T11:48:25+00:00" name="calibre:timestamp"/>
+        <meta content="La Bête Humaine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Bete Humaine - Emile Zola.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

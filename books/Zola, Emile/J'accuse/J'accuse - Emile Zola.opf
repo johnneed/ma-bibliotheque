@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8192c158-7475-4222-a9f2-f26e54735415</dc:identifier>
+        <dc:title>J'accuse</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1898-07-15T05:00:00+00:00</dc:date>
+        <dc:description>J'accuse…! est le titre d'un article rédigé par Émile Zola lors de l'affaire Dreyfus et publié dans le journal L'Aurore du 13 janvier 1898 sous forme d'une lettre ouverte au Président de la République Félix Faure. Zola s'est appuyé en partie sur un dossier écrit en 1896 par l'écrivain Bernard Lazare.
+J'accuse…! paraît deux jours après l'acquittement d'Esterhazy par le conseil de guerre (11 janvier), qui semble ruiner tous les espoirs nourris par les partisans d'une révision du procès condamnant Dreyfus. Zola y attaque nommément les généraux, les officiers responsables de l'erreur judiciaire ayant entraîné le procès et la condamnation, les experts en écritures coupables de « rapports mensongers et frauduleux. »</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.feedbooks.com/book/103</dc:identifier>
+        <dc:identifier opf:scheme="URN">urn:uuid:eeecce34-cb1d-11e1-9edf-001cc0a62c0b</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Histoire</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-06T11:48:24+00:00" name="calibre:timestamp"/>
+        <meta content="J'accuse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="J'accuse - Emile Zola.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

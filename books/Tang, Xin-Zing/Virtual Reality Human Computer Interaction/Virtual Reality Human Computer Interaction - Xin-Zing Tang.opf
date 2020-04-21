@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11ce3445-f958-4a1d-bde5-128972a0232a</dc:identifier>
+        <dc:title>Virtual Reality Human Computer Interaction</dc:title>
+        <dc:creator opf:file-as="Tang, Xin-Zing" opf:role="aut">Xin-Zing Tang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-14T09:08:27+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;In recent years, virtual reality technology has become a very popular technology, which embodies the newest research achievements in the fields of computer technology, computer graphics, sensor technology, ergonomics, human-machine interaction theory. More and more people devote into this field and commit themselves to its research, development and application. Virtual reality technology has become one of the means for human to explore the world. What is brought to us by virtual reality? Firstly, it has changed our ideas. Now, the person, instead of computer,&lt;/div&gt;&lt;div&gt;is the main body of information technology. Secondly, it has improved the human-machine interactive manner. Now, the natural interactive manner by hand and sound replaces the passive mode in the past. Thirdly, it has changed the manner of life and entertainment. In a word, virtual reality technology is an important technology to be paid attention, which will bring huge impact to our life and work.&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Intech</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Virtual Worlds</dc:subject>
+        <meta content="{&quot;Xin-Zing Tang&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-11-13T08:39:14+00:00" name="calibre:timestamp"/>
+        <meta content="Virtual Reality Human Computer Interaction" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Virtual Reality Human Computer Interaction - Xin-Zing Tang.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

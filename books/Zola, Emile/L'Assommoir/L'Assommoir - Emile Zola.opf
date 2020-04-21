@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">100b6a0b-0548-4694-a5e8-d9cda3c3d024</dc:identifier>
+        <dc:title>L'Assommoir</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1877-01-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: justify;"&gt;Qu'est-ce qui nous fascine dans la vie « simple et tranquille » de 
+Gervaise Macquart ? Pourquoi le destin de cette petite blanchisseuse 
+montée de Provence à Paris nous touche-t-il tant aujourd'hui encore? Que
+ nous disent les exclus du quartier de la Goutte-d'Or version Second 
+Empire? L'existence douloureuse de Gervaise est avant tout une passion 
+où s'expriment une intense volonté de vivre, une générosité sans faille,
+ un sens aigu de l'intimité comme de la fête. Et tant pis si, la 
+fatalité aidant, divers « assommoirs » - un accident de travail, 
+l'alcool, les « autres », la faim - ont finalement raison d'elle et des 
+siens. Gervaise aura parcouru une glorieuse trajectoire dans sa 
+déchéance même. Relisons L'Assommoir, cette « passion de Gervaise », cet
+ étonnant chef-d'oeuvre, avec des yeux neufs.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;a href="http://www.amazon.fr/LAssommoir-Emile-Zola/dp/2253002852"&gt;Lien Amazone&lt;/a&gt;          &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AlexandriZ</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253002857</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Roman</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Rougon-Macquart" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="2016-07-06T11:48:23+00:00" name="calibre:timestamp"/>
+        <meta content="L'Assommoir" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="L'Assommoir - Emile Zola.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

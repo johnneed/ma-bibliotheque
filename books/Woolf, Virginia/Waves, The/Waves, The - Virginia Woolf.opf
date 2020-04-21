@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba01f6d5-63f5-4c49-a8c3-fc0f71c0e6ec</dc:identifier>
+        <dc:title>The Waves</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Virginia Woolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'Together these ten volumes make an attractive and reasonably priced (the volumes vary between L3.99 and L4.99) working edition of Virginia Woolf's best-known writing. One can only hope that their success will prompt World's Classics to add her other essays to the series in due course.'  Review of English Studies, Vol. XLV, No. 178, May '94 (_Elisabeth Jay, Westminster College, Oxford_ ) &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Set against the vivid backdrop of the sea, six characters grapple with the death of a beloved friend, Percival. The characters are subtly revealed through the accumulation of their reflections on themselves and each other. Regarded by many as Virginia Woolf’s masterpiece, &lt;strong&gt;The Waves&lt;/strong&gt; was partially written in order to exorcise her private ghosts, as the character of Percival represents her brother who died in 1906. &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Collector's Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781904919582</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>English fiction</dc:subject>
+        <dc:subject>English; Irish; Scottish; Welsh</dc:subject>
+        <dc:subject>European</dc:subject>
+        <meta content="{&quot;Virginia Woolf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-07-01T02:26:14+00:00" name="calibre:timestamp"/>
+        <meta content="Waves, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Waves, The - Virginia Woolf.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

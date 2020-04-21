@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d83d441-d76c-4f54-bc6c-1cade5d0be72</dc:identifier>
+        <dc:title>Linked Data</dc:title>
+        <dc:creator opf:file-as="Wood, David &amp; Zaidman, Marsha &amp; Ruth, Luke &amp; Hausenblas, Michael" opf:role="aut">David Wood</dc:creator>
+        <dc:creator opf:file-as="Wood, David &amp; Zaidman, Marsha &amp; Ruth, Luke &amp; Hausenblas, Michael" opf:role="aut">Marsha Zaidman</dc:creator>
+        <dc:creator opf:file-as="Wood, David &amp; Zaidman, Marsha &amp; Ruth, Luke &amp; Hausenblas, Michael" opf:role="aut">Luke Ruth</dc:creator>
+        <dc:creator opf:file-as="Wood, David &amp; Zaidman, Marsha &amp; Ruth, Luke &amp; Hausenblas, Michael" opf:role="aut">Michael Hausenblas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Linked Data&lt;/em&gt; presents the Linked Data model in plain, jargon-free language to Web developers. Avoiding the overly academic terminology of the Semantic Web, this new book presents practical techniques, using everyday tools like JavaScript and Python. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About this Book&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The current Web is mostly a collection of linked documents useful for human consumption. The evolving Web includes data collections that may be identified and linked so that they can be consumed by automated processes. The W3C approach to this is Linked Data and it is already used by Google, Facebook, IBM, Oracle, and government agencies worldwide. &lt;/p&gt;
+&lt;p&gt;Linked Data presents practical techniques for using Linked Data on the Web via familiar tools like JavaScript and Python. You'll work step-by-step through examples of increasing complexity as you explore foundational concepts such as HTTP URIs, the Resource Description Framework (RDF), and the SPARQL query language. Then you'll use various Linked Data document formats to create powerful Web applications and mashups. &lt;/p&gt;
+&lt;p&gt;Written to be immediately useful to Web developers, this book requires no previous exposure to Linked Data or Semantic Web technologies. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finding and consuming Linked Data&lt;/li&gt;
+&lt;li&gt;Using Linked Data in your applications&lt;/li&gt;
+&lt;li&gt;Building Linked Data applications using standard Web techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the Authors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;David Wood&lt;/strong&gt; is co-chair of the W3C's RDF Working Group. &lt;strong&gt;Marsha Zaidman&lt;/strong&gt; served as CS chair at University of Mary Washington. Luke Ruth is a Linked Data developer on the Callimachus Project. &lt;strong&gt;Michael Hausenblas&lt;/strong&gt; led the Linked Data Research Centre. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;PART 1 THE LINKED DATA WEB&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Introducing Linked Data &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RDF: the data model for Linked&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consuming Linked Data&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 2 TAMING LINKED DATA&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Creating Linked Data with&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SPARQL—querying the Linked&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 3 LINKED DATA IN THE WILD&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Enhancing results from search&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RDF database fundamentals&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Datasets&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 4 PULLING IT ALL TOGETHER&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Callimachus: a Linked Data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Publishing Linked Data—a recap&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;The evolving Web&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;David Wood&lt;/strong&gt; architected the first large-scale RDF database, re-architected the Persistent URL service to support Linked Data, and co-founded the Callimachus Project. He is also the co-chair of the World Wide Web Consortium's RDF Working Group.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Marsha Zaidman&lt;/strong&gt; is Associate Professor Emerita of Computer Science at the University of Mary Washington, where she served as chair of the Department of Computer Science from 1997 to 2009.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Luke Ruth&lt;/strong&gt; is a Linked Data developer supporting the Callimachus Project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael Hausenblas&lt;/strong&gt; leads the Linked Data Research Centre in Galway, Ireland. He is the project coordinator of the European Commission FP7 Support Action LOD Around-The-Clock (LATC) and other W3C standardization activities.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617290398</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rA8-mQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617290394</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta content="{&quot;Michael Hausenblas&quot;: &quot;&quot;, &quot;Luke Ruth&quot;: &quot;&quot;, &quot;Marsha Zaidman&quot;: &quot;&quot;, &quot;David Wood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-06-03T10:25:09+00:00" name="calibre:timestamp"/>
+        <meta content="Linked Data" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Linked Data - David Wood &amp; Marsha Zaidman &amp; Luke Ruth &amp; Michael Hausenblas.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

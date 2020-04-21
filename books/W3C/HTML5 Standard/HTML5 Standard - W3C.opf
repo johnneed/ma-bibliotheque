@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">864</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7a5bf01-6504-4f31-bcc3-bda93ea19742</dc:identifier>
+        <dc:title>HTML5 Standard</dc:title>
+        <dc:creator opf:file-as="W3C" opf:role="aut">W3C</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>W3C</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>HTML5</dc:subject>
+        <meta content="{&quot;W3C&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-11-28T15:03:21+00:00" name="calibre:timestamp"/>
+        <meta content="HTML5 Standard" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="HTML5 Standard - W3C.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

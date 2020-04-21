@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5956dc9-2f1f-4e1b-a4fe-2d3df2d0fd7d</dc:identifier>
+        <dc:title>All the Time in the World</dc:title>
+        <dc:creator opf:file-as="Doctorow, E. L." opf:role="aut">E. L. Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;&lt;br&gt;&lt;/h3&gt;&lt;p&gt;“Virtuoso Doctorow is revered for his grandly dimensional novels, but he is also a superlative and transfixing short story writer. The incandescent new stories and forever stunning vintage tales…that Doctorow selected for this powerhouse collection portray psychological outliers on the edge of either liberation or an abyss. Doctorow is rightfully treasured for his social acuity and fluency in urban life, but he is also a penetrating observer of nature and our concealed primal selves….Like iron trellises wreathed with flowering vines, Doctorow’s complex and masterful tales of the strangeness, pain, and beauty of life are wise and resplendent…A landmark collection from a preeminent and popular writer who elevates the best-seller lists with each new book.”&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House Digital, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400069637</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a0b55756-7279-4a96-a0a5-c08e92baa830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Short stories; American</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <meta content="{&quot;E. L. Doctorow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-06-28T22:16:17+00:00" name="calibre:timestamp"/>
+        <meta content="All the Time in the World" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="All the Time in the World - E. L. Doctorow.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

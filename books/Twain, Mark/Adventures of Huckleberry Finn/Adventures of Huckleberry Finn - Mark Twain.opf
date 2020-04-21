@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ff56259-b76c-4738-a819-a140dc245038</dc:identifier>
+        <dc:title>Adventures of Huckleberry Finn</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-27T07:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Mark Twain's classic novel, &lt;em&gt;The Adventures of Huckleberry Finn&lt;/em&gt;, tells the story of a teenaged misfit who finds himself floating on a raft down the Mississippi River with an escaping slave, Jim. In the course of their perilous journey, Huck and Jim meet adventure, danger, and a cast of characters who are sometimes menacing and often hilarious. &lt;/p&gt;&lt;p&gt;Though some of the situations in &lt;em&gt;Huckleberry Finn&lt;/em&gt; are funny in themselves (the cockeyed Shakespeare production in Chapter 21 leaps instantly to mind), this book's humor is found mostly in Huck's unique worldview and his way of expressing himself. Describing his brief sojourn with the Widow Douglas after she adopts him, Huck says: "After supper she got out her book and learned me about Moses and the Bulrushers, and I was in a sweat to find out all about him; but by and by she let it out that Moses had been dead a considerable long time; so then I didn't care no more about him, because I don't take no stock in dead people." Underlying Twain's good humor is a dark subcurrent of Antebellum cruelty and injustice that makes &lt;em&gt;The Adventures of Huckleberry Finn&lt;/em&gt; a frequently funny book with a serious message. &lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;In this centenary year of the first American edition of Huckleberry Finn, Neider, who has worked long and well in the thickets of Twain scholarship (this is the ninth Twain volume he has edited), offers a most fitting tribute, for which he will be thanked in some quarters, damned in others. Neider's contribution is twofold: he has restored to its rightful place the great rafting chapter, which the author had lifted from the manuscript-in-progress and dropped into Life on the Mississippi, and he has abridged some of the childish larkiness in the portions in which Huck's friend Tom Sawyer intrudes into this novel. For decades, critics have lamented the absence of the "missing" chapter and deplored the jarring presence of Tom in episodes that slow the narrative, but not until now has anyone had the temerity to set matters right. In paring back the "Tom" chapters (which he fully documents in his lengthy, spirited introduction, with literal line counts of the excised material), Neider has achieved a brisker read. Though there may be some brickbats thrown at him for this "sacrilege," few should object to the belated appearance of the transplanted rafting chapter in the novel in which it clearly belongs. October 25&lt;br /&gt;Copyright 1985 Reed Business Information, Inc. &lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743487573</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Mississippi River</dc:subject>
+        <dc:subject>Finn; Huckleberry (Fictitious character)</dc:subject>
+        <dc:subject>Finn</dc:subject>
+        <dc:subject>Huckleberry (Fictitious character)</dc:subject>
+        <meta content="{&quot;Mark Twain&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Tom Sawyer" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-07-01T02:26:22+00:00" name="calibre:timestamp"/>
+        <meta content="Adventures of Huckleberry Finn" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Adventures of Huckleberry Finn - Mark Twain.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

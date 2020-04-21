@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aad5728d-5b4d-45d7-bfd5-9d6301b56806</dc:identifier>
+        <dc:title>Essential Cybersecurity Science: Build, Test, and Evaluate Secure Systems</dc:title>
+        <dc:creator opf:file-as="Dykstra, Josiah" opf:role="aut">Josiah Dykstra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;If you’re involved in cybersecurity as a software developer, forensic investigator, or network administrator, this practical guide shows you how to apply the scientific method when assessing techniques for protecting your information systems. You’ll learn how to conduct scientific experiments on everyday tools and procedures, whether you’re evaluating corporate security systems, testing your own security product, or looking for bugs in a mobile game.&lt;/p&gt;
+&lt;p&gt;Once author Josiah Dykstra gets you up to speed on the scientific method, he helps you focus on standalone, domain-specific topics, such as cryptography, malware analysis, and system security engineering. The latter chapters include practical case studies that demonstrate how to use available tools to conduct domain-specific scientific experiments.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn the steps necessary to conduct scientific experiments in cybersecurity&lt;/li&gt;
+&lt;li&gt;Explore fuzzing to test how your software handles various inputs&lt;/li&gt;
+&lt;li&gt;Measure the performance of the Snort intrusion detection system&lt;/li&gt;
+&lt;li&gt;Locate malicious “needles in a haystack” in your network and IT environment&lt;/li&gt;
+&lt;li&gt;Evaluate cryptography design and application in IoT products&lt;/li&gt;
+&lt;li&gt;Conduct an experiment to identify relationships between similar malware binaries&lt;/li&gt;
+&lt;li&gt;Understand system-level security requirements for enterprise networks and web services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Dykstra surprises readers by showing that the security of software artifacts can be the subject of scientific study." -Vint Cerf, Internet Pioneer  &lt;/p&gt;
+&lt;p&gt;"An invaluable resource on the application of the scientific method for any cyber security practitioner."  - Matt Georgy, Senior Technical Director, Symantec Corporation &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Dr. Josiah Dykstra is a Senior Researcher at the Department of Defense. Dykstra received his PhD in Computer Science from the University of Maryland, Baltimore County, researching the technical and legal challenges of digital forensics for cloud computing. He is known in the DoD and forensics communities for his work on network security, intrusion detection, malware analysis, digital forensics, and cloud computing. He is a member of the ACM, IEEE, American Academy of Forensic Sciences, Cloud Security Alliance, and American Bar Association.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491920947</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JNxbrgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491920947</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Josiah Dykstra&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2015-12-21T03:58:04+00:00" name="calibre:timestamp"/>
+        <meta content="Essential Cybersecurity Science: Build, Test, and Evaluate Secure Systems" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Essential Cybersecurity Science_ Build, Test, and Evaluate Secure Systems - Josiah Dykstra.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

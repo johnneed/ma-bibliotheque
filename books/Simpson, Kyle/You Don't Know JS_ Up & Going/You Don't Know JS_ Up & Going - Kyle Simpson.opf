@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c86a8f93-042b-41e9-b77f-554ae47d32ca</dc:identifier>
+        <dc:title>You Don't Know JS: Up &amp; Going</dc:title>
+        <dc:creator opf:file-as="Simpson, Kyle" opf:role="aut">Kyle Simpson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;It’s easy to learn parts of JavaScript, but much harder to learn it completely—or even &lt;em&gt;sufficiently&lt;/em&gt;—whether you’re new to the language or have used it for years. With the "You Don’t Know JS" book series, you’ll get a more complete understanding of JavaScript, including trickier parts of the language that many experienced JavaScript programmers simply avoid.&lt;/p&gt;&lt;p&gt;The series’ first book, &lt;em&gt;Up &amp;amp; Going&lt;/em&gt;, provides the necessary background for those of you with limited programming experience. By learning the basic building blocks of programming, as well as JavaScript’s core mechanisms, you’ll be prepared to dive into the other, more in-depth books in the series—and be well on your way toward true JavaScript.&lt;/p&gt;&lt;p&gt;With this book you will:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Learn the essential programming building blocks, including operators, types, variables, conditionals, loops, and functions&lt;/li&gt;&lt;li&gt;Become familiar with JavaScript's core mechanisms such as values, function closures, &lt;em&gt;this&lt;/em&gt;, and prototypes&lt;/li&gt;&lt;li&gt;Get an overview of other books in the series—and learn why it’s important to understand &lt;em&gt;all&lt;/em&gt; parts of JavaScript&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491924464</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uSWABwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491924462</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta content="{&quot;Kyle Simpson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2015-08-09T12:14:11+00:00" name="calibre:timestamp"/>
+        <meta content="You Don't Know JS: Up &amp; Going" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="You Don't Know JS_ Up &amp; Going - Kyle Simpson.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

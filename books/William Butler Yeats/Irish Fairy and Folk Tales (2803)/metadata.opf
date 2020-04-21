@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d1ae7c5-815f-4f04-bb1c-3744d06fe234</dc:identifier>
+        <dc:title>Irish Fairy and Folk Tales</dc:title>
+        <dc:creator opf:file-as="Yeats, William Butler &amp; Muldoon, Paul" opf:role="aut">William Butler Yeats</dc:creator>
+        <dc:creator opf:file-as="Yeats, William Butler &amp; Muldoon, Paul" opf:role="aut">Paul Muldoon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-18T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Gathered by the renowned Irish poet, playwright, and essayist William Butler Yeats, the sixty-five tales and poems in this delightful collection uniquely capture the rich heritage of the Celtic imagination. Filled with legends of village ghosts, fairies, demons, witches, priests, and saints, these stories evoke both tender pathos and lighthearted mirth and embody what Yeats describes as “the very voice of the people, the very pulse of life.”   &lt;/p&gt;
+&lt;p&gt;“The impact of these tales doesn’t stop with Yeats, or Joyce, or Oscar Wilde,” writes Paul Muldoon in his Foreword, “for generations of readers in Ireland and throughout the world have found them flourishing like those persistent fairy thorns.”&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“These folk-tales are full of simplicity and musical occurrences, for they are the literature of a class...who have steeped everything in the heart: to whom everything is a symbol.”—William Butler Yeats &lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;Gathered by the renowned Irish poet, playwright, and essayist William Butler Yeats, the sixty-five tales and poems in this delightful collection uniquely capture the rich heritage of the Celtic imagination. Filled with legends of village ghosts, fairies, demons, witches, priests, and saints, these stories evoke both tender pathos and lighthearted mirth and embody what Yeats describes as "the very voice of the people, the very pulse of life." &lt;br&gt;
+"The impact of these tales doesn't stop with Yeats, or Joyce, or Oscar Wilde," writes Paul Muldoon in his Foreword, "for generations of readers in Ireland and throughout the world have found them flourishing like those persistent fairy thorns." &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Modern Library</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B008ED5FZA</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307824172</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Mythology &amp; Folk Tales</dc:subject>
+        <dc:subject>World Literature</dc:subject>
+        <dc:subject>European</dc:subject>
+        <dc:subject>British &amp; Irish</dc:subject>
+        <dc:subject>Politics &amp; Social Sciences</dc:subject>
+        <dc:subject>Social Sciences</dc:subject>
+        <dc:subject>Folklore &amp; Mythology</dc:subject>
+        <dc:subject>Anthologies &amp; Collections</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>Contemporary Fiction</dc:subject>
+        <dc:subject>Fairy Tales</dc:subject>
+        <dc:subject>Folklore</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Anthologies</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="{&quot;William Butler Yeats&quot;: &quot;&quot;, &quot;Paul Muldoon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-06-28T22:53:23+00:00" name="calibre:timestamp"/>
+        <meta content="Irish Fairy and Folk Tales (Modern Library Classics)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

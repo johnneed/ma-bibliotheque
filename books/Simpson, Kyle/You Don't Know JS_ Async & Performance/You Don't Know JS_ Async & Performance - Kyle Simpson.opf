@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe4ae4b7-8470-435e-94df-fa41f891a5d5</dc:identifier>
+        <dc:title>You Don't Know JS: Async &amp; Performance</dc:title>
+        <dc:creator opf:file-as="Simpson, Kyle" opf:role="aut">Kyle Simpson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-09T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the "You Don’t Know JS" series, this concise yet in-depth guide focuses on new asynchronous features and performance techniques—including Promises, generators, and Web Workers—that let you create sophisticated single-page web applications &lt;em&gt;and&lt;/em&gt; escape callback hell in the process.&lt;/p&gt;&lt;p&gt;Like other books in this series, &lt;em&gt;You Don’t Know JS: Async &amp;amp; Performance&lt;/em&gt; dives into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can become a true JavaScript master.&lt;/p&gt;&lt;p&gt;With this book you will:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explore old and new JavaScript methods for handling asynchronous programming&lt;/li&gt;&lt;li&gt;Understand how callbacks let third parties control your program’s execution&lt;/li&gt;&lt;li&gt;Address the "inversion of control" issue with JavaScript Promises&lt;/li&gt;&lt;li&gt;Use generators to express async flow in a sequential, synchronous-looking fashion&lt;/li&gt;&lt;li&gt;Tackle program-level performance with Web Workers, SIMD, and asm.js&lt;/li&gt;&lt;li&gt;Learn valuable resources and techniques for benchmarking and tuning your expressions and statements&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491904220</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491904224</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kyle Simpson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2015-08-09T12:14:12+00:00" name="calibre:timestamp"/>
+        <meta content="You Don't Know JS: Async &amp; Performance" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="You Don't Know JS_ Async &amp; Performance - Kyle Simpson.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

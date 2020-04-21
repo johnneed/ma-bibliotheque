@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f041d17-cb97-41de-b124-d2e2b5e00106</dc:identifier>
+        <dc:title>Nana</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1880-01-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: justify;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: justify;"&gt;Dans les dernières années du Second Empire, quand Nana joue le rôle de 
+Vénus au Théâtre des Variétés, son succès tient moins à son médiocre 
+talent d’actrice qu’à la séduction de son corps nu, voilé d’une simple 
+gaze. Elle aimante sur scène tous les regards comme elle attire chez 
+elle tous les hommes : tentatrice solaire qui use de ses charmes pour 
+mener une vie de luxure et de luxe, de paresse et de dépense.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;Grâce à elle, c’est tout un monde que le romancier parvient à évoquer, toute une époque et tout un style de vie.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;Ce neuvième volume des &lt;i&gt;Rougon-Macquart&lt;/i&gt; est une satire cinglante des hautes sphères perverties par une fête qui ruine le peuple et détruit les valeurs.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;a href="http://www.amazon.fr/Nana-Emile-Zola/dp/2253003654"&gt;Lien Amazon&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AlexandriZ</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253003656</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Roman</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Rougon-Macquart" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="2016-07-06T11:48:23+00:00" name="calibre:timestamp"/>
+        <meta content="Nana" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Nana - Emile Zola.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

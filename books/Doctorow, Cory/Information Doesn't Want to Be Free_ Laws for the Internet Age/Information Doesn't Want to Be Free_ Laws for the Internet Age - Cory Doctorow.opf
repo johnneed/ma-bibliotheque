@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e464173c-58ab-4a94-942d-8019449bec23</dc:identifier>
+        <dc:title>Information Doesn't Want to Be Free: Laws for the Internet Age</dc:title>
+        <dc:creator opf:file-as="Doctorow, Cory" opf:role="aut">Cory Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-11T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;In sharply argued, fast-moving chapters, Cory Doctorow’s &lt;em&gt;Information Doesn’t Want to Be Free&lt;/em&gt; takes on the state of copyright and creative success in the digital age. Can small artists still thrive in the Internet era? Can giant record labels avoid alienating their audiences? This is a book about the pitfalls and the opportunities that creative industries (and individuals) are confronting today — about how the old models have failed or found new footing, and about what might soon replace them. An essential read for anyone with a stake in the future of the arts, &lt;em&gt;Information Doesn’t Want to Be Free&lt;/em&gt; offers a vivid guide to the ways creativity and the Internet interact today, and to what might be coming next.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Filled with wisdom and thought experiments and things that will mess with your mind.” — Neil Gaiman, author of &lt;em&gt;The Graveyard Book and American Gods&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;“Cory Doctorow has been thinking longer and smarter than anyone else I know about how we create and exchange value in a digital age.” — Douglas Rushkoff, author of &lt;em&gt;Present Shock&lt;/em&gt; and &lt;em&gt;Program or Be Programmed&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"Author, Internet guru, and practical philosopher Cory Doctorow gives hard-headed advice about how to gain fame and fortune using the Internet. Along the way, he explains a great deal about the hidden workings and dangers of modern technology. Whether you want to make money online or just surf safely, there's much to learn in this fast-moving and entertaining narrative.” — Alex Kozinski, Chief Judge of the United States Court of Appeals for the Ninth Circuit  &lt;/p&gt;&lt;p&gt;"Required reading for creators making their ways through the new world."&lt;br&gt;—&lt;em&gt;Kirkus Reviews&lt;/em&gt; (starred)  &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Cory Doctorow&lt;/strong&gt; is a science fiction author, activist, journalist, and blogger, as well as the coeditor of Boing Boing (boingboing.net) and the author of young adult novels like &lt;em&gt;Homeland, Pirate Cinema,&lt;/em&gt; and &lt;em&gt;Little Brother&lt;/em&gt; and novels for adults including &lt;em&gt;Rapture of the Nerds&lt;/em&gt; and &lt;em&gt;Makers.&lt;/em&gt; The former European director of the Electronic Frontier Foundation and cofounder of the U.K. Open Rights Group, he lives in London.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amanda Palmer&lt;/strong&gt; rose to fame as the lead singer, pianist, and lyricist for the acclaimed band The Dresden Dolls, and performs as a solo artist as well as collaborating with artists including Jonathan Richman and her husband, author Neil Gaiman. She is the author of &lt;em&gt;The Art of Asking&lt;/em&gt;.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Neil Gaiman&lt;/strong&gt; is the #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author of more than twenty books for readers of all ages, and the recipient of numerous literary awards, including the Shirley Jackson Award and the Locus Award for Best Novelette for his story "The Truth Is a Cave in the Black Mountains." Originally from England, he now lives in America.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>McSweeney's</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781940450230</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">14e7ddad-d379-40a8-838f-2070ff2c0408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General &amp; Reference</dc:subject>
+        <dc:subject>Social Sciences</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Politics &amp; Social Sciences</dc:subject>
+        <dc:subject>Engineering</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Cultural</dc:subject>
+        <dc:subject>Engineering &amp; Transportation</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Science &amp; Math</dc:subject>
+        <meta content="{&quot;Cory Doctorow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-06-10T01:32:57+00:00" name="calibre:timestamp"/>
+        <meta content="Information Doesn't Want to Be Free: Laws for the Internet Age" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Information Doesn't Want to Be Free_ Laws for the Internet Age - Cory Doctorow.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

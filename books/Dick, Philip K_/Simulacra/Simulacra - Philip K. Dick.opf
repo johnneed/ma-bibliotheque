@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3bf6de9-a8fc-4887-af39-73f4a5b78d4f</dc:identifier>
+        <dc:title>Simulacra</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-03T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A mediados del siglo XXI, el gobierno de los EUAE (Estados Unidos de América y Europa) es un fraude, y su presidente, un androide; queda un solo psicoanalista sobre la faz de la Tierra, plagada de enfermos mentales, y la humanidad ha sufrido una regresión evolutiva que ha originado una nueva raza de neandertales. Por este inquietante panorama desfilan personajes tan insólitos como un pianista que toca sin manos y un Göring rescatado del pasado para atentar contra su Führer .&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta Spain</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445000366</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nI0PuF5GKUIC</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Philip K. Dick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-06-05T20:13:55+00:00" name="calibre:timestamp"/>
+        <meta content="Simulacra" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Simulacra - Philip K. Dick.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07b2a7af-77f4-44e7-b4cc-4229f557bba4</dc:identifier>
+        <dc:title>A Room of One's Own</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Virginia Woolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;In A Room of One's Own, Virginia Woolf imagines that Shakespeare had a sister: a sister equal to Shakespeare in talent, equal in genius, but whose legacy is radically different.This imaginary woman never writes a word and dies by her own hand, her genius unexpressed. But if only she had found the means to create, urges Woolf, she would have reached the same heights as her immortal sibling. In this classic essay,Virginia Woolf takes on the establishment, using her gift of language to dissect the world around her and give a voice to those who have none. Her message is simple: A woman must have a fixed income and a room of her own in order to have the freedom to create.   &lt;/p&gt;&lt;p&gt;Annotated and with an introduction by Susan Gubar   &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;VIRGINIA WOOLF (1882-1941) was one of the major literary figures of the twentieth century. An admired literary critic, she authored many essays, letters, journals, and short stories in addition to her groundbreaking novels.&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156030410</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature - Women authors - History and criticism - Theory; etc</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Women and literature - Great Britain</dc:subject>
+        <dc:subject>Women Authors</dc:subject>
+        <dc:subject>Authorship - Sex differences</dc:subject>
+        <dc:subject>History and criticism</dc:subject>
+        <dc:subject>Woolf; Virginia - Authorship</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Women authors - Social conditions</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Economic conditions</dc:subject>
+        <dc:subject>Women and literature</dc:subject>
+        <dc:subject>Women authors - Economic conditions</dc:subject>
+        <dc:subject>Great Britain</dc:subject>
+        <dc:subject>Authorship</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Women's Studies</dc:subject>
+        <dc:subject>Theory; etc</dc:subject>
+        <meta content="{&quot;Virginia Woolf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-01T02:26:28+00:00" name="calibre:timestamp"/>
+        <meta content="Room of One's Own, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Room of One's Own, A - Virginia Woolf.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

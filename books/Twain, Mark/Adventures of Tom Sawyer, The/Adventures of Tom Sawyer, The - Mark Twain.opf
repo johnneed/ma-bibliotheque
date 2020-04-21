@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efd031c1-07bf-42bf-95e6-d16753051e81</dc:identifier>
+        <dc:title>The Adventures of Tom Sawyer</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From School Library Journal&lt;/h3&gt;&lt;p&gt;Grade 5 Up-British actor Mike McShane provides a superb portrayal of Mark Twain's classic characters, nailing the Mississippi drawl and cadence. For those who know and love the story or are following along with an unabridged edition, however, this production is marred somewhat by what the publisher has chosen to leave out. The more descriptive chapters are shortened or expurgated entirely, which is understandable in the interest of editing for time. Some of the more distasteful racial epithets are gone as well, although Injun Joe retains his moniker. Sid and Mary are also cut entirely, as well as references to smoking, slavery, most of Tom's ludicrously funny romantic notions about the violence inflicted by pirates and robbers, and even the naked figure in the schoolmaster's anatomy book. The result is a watered down Tom and, especially, Huck. The ending also lacks the satisfaction of the original version. The party scene where the fortune is revealed has been cut as has Twain's concluding paragraphs which "endeth this chronicle." It lacks even the closure of the customary, "You have been listening to-." The sturdy plastic case will survive many circulations. If your facility serves an elementary-age population for which the language of the original would not be appropriate, or there is a teacher looking for a sanitized version, McShane's excellent performance makes this edition worth recommending.&lt;br /&gt;&lt;em&gt;Diana Dickerson, White Pigeon Community Schools, MI &lt;/em&gt;&lt;br /&gt;Copyright 2000 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;From Library Journal&lt;/h3&gt;&lt;p&gt;Huckleberry Finn may be the greater book, but Tom Sawyer has always been more widely read. Moreover, it is a book that can be enjoyed equally by both children and adults. Twain, who called it a "hymn" to boyhood, would be thrilled that in narrator Patrick Fraley his hymn has found its most passionate voice. Many good unabridged readings of Tom Sawyer have already been recorded, but most are simply that: readings. Fraley's performance is something more; in attempting to bring each character to life, his enthusiasm for the material is so palpable that the mere sound of his voice commands attention. A can't-miss addition to all libraries, including those that have other Tom Sawyer programs. Kent Rasmussen, Thousand Oaks, CA &lt;br /&gt;Copyright 2002 Reed Business Information, Inc. &lt;/p&gt;</dc:description>
+        <dc:publisher>Sterling</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781402767623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Children: Grades 4-6</dc:subject>
+        <dc:subject>Ages 9-12 Fiction</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>People &amp; Places</dc:subject>
+        <dc:subject>Children's Books</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Action &amp; Adventure - General</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Men</dc:subject>
+        <dc:subject>Social Issues</dc:subject>
+        <dc:subject>Adventure fiction</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>All Ages</dc:subject>
+        <dc:subject>Southern States</dc:subject>
+        <dc:subject>Boys</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Humorous Fiction</dc:subject>
+        <dc:subject>Boys &amp; Men</dc:subject>
+        <dc:subject>Runaway children</dc:subject>
+        <dc:subject>Adventure and adventurers</dc:subject>
+        <dc:subject>Runaways</dc:subject>
+        <dc:subject>Fugitive slaves</dc:subject>
+        <dc:subject>Sawyer; Tom (Fictitious character)</dc:subject>
+        <dc:subject>Mississippi River Valley</dc:subject>
+        <dc:subject>Sawyer</dc:subject>
+        <dc:subject>Missouri</dc:subject>
+        <dc:subject>Southern States - Race relations</dc:subject>
+        <dc:subject>Tom (Fictitious character)</dc:subject>
+        <meta content="{&quot;Mark Twain&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Tom Sawyer" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-07-01T02:26:21+00:00" name="calibre:timestamp"/>
+        <meta content="Adventures of Tom Sawyer, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Adventures of Tom Sawyer, The - Mark Twain.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

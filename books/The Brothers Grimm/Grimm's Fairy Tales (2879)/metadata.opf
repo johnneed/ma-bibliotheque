@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74b4f54c-df28-4c51-84c4-541ab87a8749</dc:identifier>
+        <dc:title>Grimm's Fairy Tales</dc:title>
+        <dc:creator opf:file-as="Grimm, The Brothers &amp; Dale, Jim &amp; Ian, Janis &amp; Molina, Alfred &amp; Kellgren, Katherine &amp; Library, Listening" opf:role="aut">The Brothers Grimm</dc:creator>
+        <dc:creator opf:file-as="Grimm, The Brothers &amp; Dale, Jim &amp; Ian, Janis &amp; Molina, Alfred &amp; Kellgren, Katherine &amp; Library, Listening" opf:role="aut">Jim Dale</dc:creator>
+        <dc:creator opf:file-as="Grimm, The Brothers &amp; Dale, Jim &amp; Ian, Janis &amp; Molina, Alfred &amp; Kellgren, Katherine &amp; Library, Listening" opf:role="aut">Janis Ian</dc:creator>
+        <dc:creator opf:file-as="Grimm, The Brothers &amp; Dale, Jim &amp; Ian, Janis &amp; Molina, Alfred &amp; Kellgren, Katherine &amp; Library, Listening" opf:role="aut">Alfred Molina</dc:creator>
+        <dc:creator opf:file-as="Grimm, The Brothers &amp; Dale, Jim &amp; Ian, Janis &amp; Molina, Alfred &amp; Kellgren, Katherine &amp; Library, Listening" opf:role="aut">Katherine Kellgren</dc:creator>
+        <dc:creator opf:file-as="Grimm, The Brothers &amp; Dale, Jim &amp; Ian, Janis &amp; Molina, Alfred &amp; Kellgren, Katherine &amp; Library, Listening" opf:role="aut">Listening Library</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Read by a cast of award-winning narrators, this collection contains some of the most timeless and enchanting folk and fairy tales collected by the Brothers Grimm. &lt;/p&gt;
+&lt;p&gt;The Brothers Grimm collected the original fairy tales that Americans are most familiar with today. Lyrically translated and beautifully narrated by an all-star cast, these 21 tales are selected from The Complete Grimm's Fairy Tales and presented just as Jacob and Wilhelm Grimm originally set them down: bold, primal, just frightening enough, and endlessly engaging. &lt;/p&gt;
+&lt;p&gt;Stories include: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;"Rapunzel", read by Katherine Kellgren &lt;/li&gt;
+&lt;li&gt;"Cinderella", read by January LaVoy &lt;/li&gt;
+&lt;li&gt;"Little Red-Cap", read by Simon Vance &lt;/li&gt;
+&lt;li&gt;"Little Briar-Rose", read by Grover Gardner &lt;/li&gt;
+&lt;li&gt;"Little Snow-White", read by Kate Rudd &lt;/li&gt;
+&lt;li&gt;"Rumpelstiltskin", read by Jim Dale &lt;/li&gt;
+&lt;li&gt;"The Shoes That Were Danced to Pieces", read by Alfred Molina &lt;/li&gt;
+&lt;li&gt;"A Riddling Tale", read by Janis Ian &lt;/li&gt;
+&lt;li&gt;"The Twelve Brothers", read by Graeme Malcolm &lt;/li&gt;
+&lt;li&gt;"The White Snake", read by Scott Brick &lt;/li&gt;
+&lt;li&gt;"The Elves", read by Bahni Turpin &lt;/li&gt;
+&lt;li&gt;"The Six Swans", read by Davina Porter &lt;/li&gt;
+&lt;li&gt;"The Twelve Huntsmen", read by Dion Graham &lt;/li&gt;
+&lt;li&gt;"The Goose-Girl", read by Edoardo Ballerini &lt;/li&gt;
+&lt;li&gt;"Sweet Porridge", read by Jayne Entwistle &lt;/li&gt;
+&lt;li&gt;"The Golden Goose", read by Luke Daniels &lt;/li&gt;
+&lt;li&gt;"Eve's Various Children", read by Roy Dotrice &lt;/li&gt;
+&lt;li&gt;"Snow-White and Rose-Red", read by Julia Whelan &lt;/li&gt;
+&lt;li&gt;"The Frog-King, or Iron Henry", read by Kirby Heyborne &lt;/li&gt;
+&lt;li&gt;"The Sea-Hare", read by Mark Bramhall &lt;/li&gt;
+&lt;li&gt;"Hansel and Gretel", read by Robin Miles &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Listening Library</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01DPV3Q3S</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Katherine Kellgren&quot;: &quot;&quot;, &quot;Janis Ian&quot;: &quot;&quot;, &quot;The Brothers Grimm&quot;: &quot;&quot;, &quot;Alfred Molina&quot;: &quot;&quot;, &quot;Listening Library&quot;: &quot;&quot;, &quot;Jim Dale&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-06-30T12:20:23+00:00" name="calibre:timestamp"/>
+        <meta content="Grimm's Fairy Tales" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

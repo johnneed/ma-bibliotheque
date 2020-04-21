@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da04ad8e-a2f3-4be6-854d-e3081459a439</dc:identifier>
+        <dc:title>The Left Hand of Darkness</dc:title>
+        <dc:creator opf:file-as="LeGuin, Ursula K." opf:role="aut">Ursula K. Le Guin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-22T04:53:42+00:00</dc:date>
+        <dc:description>SUMMARY:
+Genly Ai is a diplomat of sorts, sent to observe the inhabitants of the snowbound planet of Winter. But the isolated, androgynous people are suspicious of this strange, single-gendered visitor. Tucked away in a remote corner of the universe, they have no knowledge of space travel or of life beyond their own world. So, bringing news of a vast coalition of planets they are invited to join, he is met with fear, mistrust and disbelief.But also something more. For Genly Ai, who sees himself as a bringer of the truth, it is a bittersweet irony that he will discover truths about himself and, in the snow-shrouded strangeness of Winter, find both love and tragedy . . . First published in the year Neil Armstrong walked on the moon, The Left Hand of Darkness is a classic of science fiction and a masterpiece of modern literature.</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781841496061</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Ursula K. Le Guin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-06-27T11:45:59+00:00" name="calibre:timestamp"/>
+        <meta content="Left Hand of Darkness, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

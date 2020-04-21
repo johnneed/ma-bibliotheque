@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3c8581d-26a0-458f-88cf-96b920737370</dc:identifier>
+        <dc:title>The Food of the Gods</dc:title>
+        <dc:creator opf:file-as="Wells, H. G." opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;As one of Wells lesser known novels "The Food of the Gods" is often out of print and difficult to find. Despite its obscure status, it represents an early examination of scientific ethics that helped define an important genre in science fiction.As a result of research into the growth curves of living matter, two scientists invent a seemingly miraculous substance called Herakleophorbia IV, nicknamed "The Food of the Gods."Its consumption causes accelerated uninterrupted growth in all forms of life. Its creators' lack of forethought and ineptitude results in terrifying consequences when the substance escapes the bounds of the experiment and is ingested by unintended creatures.This early masterpiece was a groundbreaking conjecture of many of the real issues now confronting scientists about genetically engineered foods and ethical considerations in scientific experimentation.&lt;/p&gt;</dc:description>
+        <dc:publisher>CreateSpace</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781453754214</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>SciFi-Masterwork</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>High Tech</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;H. G. Wells&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Masterworks of Science Fiction" name="calibre:series"/>
+        <meta content="81" name="calibre:series_index"/>
+        <meta content="2016-07-01T02:26:24+00:00" name="calibre:timestamp"/>
+        <meta content="Food of the Gods, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

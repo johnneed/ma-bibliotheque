@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e14d572-9186-431d-b56e-f8be59ce7edf</dc:identifier>
+        <dc:title>The Minority Report and Other Classic Stories</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-05-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Many thousands of readers worldwide consider Philip K. Dick to have been the greatest science fiction writer on &lt;em&gt;any&lt;/em&gt; planet.  Since his untimely death in 1982, interest in Dick’s work has continued to mount and his reputation has been enhanced by a growing body of critical attention. The Philip K. Dick Award is now presented annually to a distinguished work of science fiction, and the Philip K. Dick Society is devoted to the study and promulgation of his works.&lt;br&gt;
+This collection includes all of the writer’s earliest short and medium-length fiction (including several previously unpublished stories) covering the years 1954 – 1964, and featuring such fascinating tales as &lt;em&gt;The Minority Report&lt;/em&gt; (the inspiration for Steven Spielberg’s film), &lt;em&gt;Service Call, Stand By, The Days of Perky&lt;/em&gt; &lt;em&gt;Pat&lt;/em&gt;, and many others.  Here, readers will find Dick’s initial explorations of the themes he so brilliantly brought to life in his later work.&lt;br&gt;
+Dick won the prestigious Hugo Award for best novel of 1963 for &lt;em&gt;The Man in the High Castle&lt;/em&gt; and in the last year of his life, the now-classic film &lt;em&gt;Blade Runner&lt;/em&gt; was made from his &lt;em&gt;novel Do Androids Dream of Electric Sheep&lt;/em&gt;?&lt;br&gt;
+The classic stories of Philip K. Dick offer an intriguing glimpse into the early imagination of one of science fiction’s most enduring and respected names.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“More than anyone else in the field, Mr. Dick really puts you inside people’s minds.”&lt;br&gt;
+--*Wall Street Journal  &lt;/p&gt;
+&lt;p&gt;“A useful acquisition for any serious SF library or collection.”|&lt;br&gt;
+--*Kirkus Reviews  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“Awe-inspiring.” &lt;br&gt;
+– &lt;em&gt;The Washington Post&lt;/em&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;More than 30 years after his untimely death at age 53, &lt;strong&gt;Philip K. Dick&lt;/strong&gt; (1928 – 1982) remains one of the most celebrated authors of the last century and a looming and illuminating presence in this one. He was the winner of both the prestigious Hugo Award and the John W. Campbell Memorial Award, which honor excellence in science fiction. Inducted in 2007 into the Library of America, which publishes a three-volume collection of his novels, Dick has received unprecedented recognition for his contributions to modern literature, specifically in the area of science fiction. His 45 novels and over 210 short stories have been adapted into numerous films, including the blockbusters &lt;em&gt;Minority Report, Total Recall&lt;/em&gt;, and &lt;em&gt;Blade Runner&lt;/em&gt;, as well as &lt;em&gt;Impostor, Paycheck, Scanner Darkly, Next&lt;/em&gt;, and &lt;em&gt;The Adjustment Bureau&lt;/em&gt;. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Citadel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780806523798</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">R7rALwfN6pYC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0806523794</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Philip K. Dick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-06-05T20:13:55+00:00" name="calibre:timestamp"/>
+        <meta content="Minority Report and Other Classic Stories, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Minority Report and Other Classic Stories, The - Philip K. Dick.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

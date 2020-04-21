@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbfa6ae6-db51-4fa7-8e7b-fd812741229a</dc:identifier>
+        <dc:title>Vanity Fair</dc:title>
+        <dc:creator opf:file-as="Thackeray, William Makepeace" opf:role="aut">William Makepeace Thackeray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-22T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: The classic by William Thackeray. "If she did not wish to lead a virtuous life, at least she desired to enjoy a character for virtue, and we know that no lady in the genteel world can possess this desideratum, until she has put on a train and feathers and has been presented to her Sovereign at Court. From that august interview they come out stamped as honest women. The Lord Chamberlain gives them a certificate of virtue."</dc:description>
+        <dc:publisher>CreateSpace</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449528270</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Social Classes</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <dc:subject>Married women</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>Waterloo</dc:subject>
+        <dc:subject>London (England)</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Female friendship</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Governesses</dc:subject>
+        <dc:subject>Belgium</dc:subject>
+        <meta content="{&quot;William Makepeace Thackeray&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-06T06:16:00+00:00" name="calibre:timestamp"/>
+        <meta content="Vanity Fair" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Vanity Fair - William Makepeace Thackeray.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

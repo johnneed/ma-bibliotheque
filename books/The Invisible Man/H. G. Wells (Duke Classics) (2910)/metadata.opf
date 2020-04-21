@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03e3fd94-a37d-4f74-9ffa-71000d21ea5d</dc:identifier>
+        <dc:title>H. G. Wells (Duke Classics)</dc:title>
+        <dc:creator opf:file-as="Man, The Invisible" opf:role="aut">The Invisible Man</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-18T00:49:20+00:00</dc:date>
+        <dc:description>&lt;p&gt;H.G. Wells' 1897 science fiction novella &lt;i&gt;The Invisible Man&lt;/i&gt; tells the story of a scientist named Griffin who theory is this: if the refractive index of a person's body is adjusted to exactly that of air, then his body will not absorb or reflect light and he will become invisible. Griffin subjects himself to a procedure to do this, becoming an invisible man. But he cannot manage to reverse it and become visible once more, resulting in his mental unhinging.</dc:description>
+        <dc:publisher>Duke Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781620115305</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;The Invisible Man&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-01T02:26:24+00:00" name="calibre:timestamp"/>
+        <meta content="H. G. Wells (Duke Classics)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f5ab37d-a464-47e2-a471-4f7f51d93ff3</dc:identifier>
+        <dc:title>The War of the Worlds</dc:title>
+        <dc:creator opf:file-as="Wells, H. G." opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.66.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-26T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: This is the granddaddy of all alien invasion stories, first published by H.G. Wells in 1898. The novel begins ominously, as the lone voice of a narrator tells readers that "No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man's..."Things then progress from a series of seemingly mundane reports about odd atmospheric disturbances taking place on Mars to the arrival of Martians just outside of London. At first the Martians seem laughable, hardly able to move in Earth's comparatively heavy gravity even enough to raise themselves out of the pit created when their spaceship landed. But soon the Martians reveal their true nature as death machines 100-feet tall rise up from the pit and begin laying waste to the surrounding land. Wells quickly moves the story from the countryside to the evacuation of London itself and the loss of all hope as England's military suffers defeat after defeat. With horror his narrator describes how the Martians suck the blood from living humans for sustenance, and how it's clear that man is not being conquered so much a corralled.</dc:description>
+        <dc:publisher>CreateSpace</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781450593250</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta content="{&quot;H. G. Wells&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-01T02:26:25+00:00" name="calibre:timestamp"/>
+        <meta content="War of the Worlds, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

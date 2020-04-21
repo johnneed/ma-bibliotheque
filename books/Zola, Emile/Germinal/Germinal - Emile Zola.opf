@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88c89550-bdfd-4ed7-93c1-2f9ea8b25c7e</dc:identifier>
+        <dc:title>Germinal</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="font-family: 'DejaVu Sans';"&gt;Zola's masterpiece of working life,&lt;/span&gt;&lt;em style="font-family: 'DejaVu Sans';"&gt;Germinal&lt;/em&gt;&lt;span style="font-family: 'DejaVu Sans';"&gt; (1885), exposes the inhuman conditions of miners in northern France in the 1860s. By Zola's death in 1902 it had come to symbolize the call for freedom from oppression so forcefully that the crowd which gathered at his State funeral chanted "Germinal! Germinal!"&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>benhenda89 - FRBoarD</dc:publisher>
+        <dc:language>fra</dc:language>
+        <dc:subject>Littérature Française</dc:subject>
+        <dc:subject>Adapté au cinéma</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Epub commercial" name="calibre:series"/>
+        <meta content="987" name="calibre:series_index"/>
+        <meta content="2016-07-06T11:48:24+00:00" name="calibre:timestamp"/>
+        <meta content="Germinal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Germinal - Emile Zola.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

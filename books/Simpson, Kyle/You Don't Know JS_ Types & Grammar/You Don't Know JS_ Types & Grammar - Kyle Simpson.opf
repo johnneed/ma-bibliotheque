@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b5fd17a-5311-4f7e-be7c-651f4dacb6f4</dc:identifier>
+        <dc:title>You Don't Know JS: Types &amp; Grammar</dc:title>
+        <dc:creator opf:file-as="Simpson, Kyle" opf:role="aut">Kyle Simpson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the "You Don’t Know JS" series, this compact guide explores JavaScript types in greater depth than previous treatments by looking at type coercion problems, demonstrating why types work, and showing you how to take advantage of these features.&lt;/p&gt;&lt;p&gt;Like other books in this series, &lt;em&gt;You Don’t Know JS: Types &amp;amp; Grammar&lt;/em&gt; dives into trickier parts of the language that many JavaScript programmers simply avoid or assume don’t exist (like types). Armed with this knowledge, you can achieve true JavaScript mastery.&lt;/p&gt;&lt;p&gt;With this book you will:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get acquainted with JavaScript’s seven types: null, undefined, boolean, number, string, object, and symbol&lt;/li&gt;&lt;li&gt;Understand why JavaSript’s unique array, string, and number characteristics may delight or confound you&lt;/li&gt;&lt;li&gt;Learn how natives provide object wrappers around primitive values&lt;/li&gt;&lt;li&gt;Dive into the coercion controversy—and learn why this feature is useful in many cases&lt;/li&gt;&lt;li&gt;Explore various nuances in JavaScript syntax, involving statements, expressions, and other features&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491904190</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YC2CoAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491904194</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta content="{&quot;Kyle Simpson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-02-19T04:20:53+00:00" name="calibre:timestamp"/>
+        <meta content="You Don't Know JS: Types &amp; Grammar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="You Don't Know JS_ Types &amp; Grammar - Kyle Simpson.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

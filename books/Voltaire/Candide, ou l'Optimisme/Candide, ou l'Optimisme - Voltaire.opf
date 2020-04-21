@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1926</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59aaa2f6-0cdf-49d7-bca5-e37c4329b87a</dc:identifier>
+        <dc:title>Candide, ou l'Optimisme</dc:title>
+        <dc:creator opf:file-as="Voltaire" opf:role="aut">Voltaire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1759-07-15T05:00:00+00:00</dc:date>
+        <dc:description>Candide, ou l’Optimisme est un conte philosophique de Voltaire paru à Genève en janvier 1759. Il a été réédité vingt fois du vivant de l’auteur (plus de cinquante aujourd’hui) ce qui en fait un des plus grands succès littéraires français.
+Anonyme en 1759, Candide est attribué à un certain « Monsieur le Docteur Ralph » en 1761, à la suite du remaniement du texte par Voltaire. Ce titre ronflant donne tout de suite le ton au lecteur qui pourrait hésiter sur le genre de l’ouvrage : conte ou essai ? Art mineur ou art noble ? L’auteur prend, dès les premières lignes, position contre la noblesse aux titres bien plus ronflants que celui-ci. Et que dire du nom du soi-disant docteur Ralph ? Rien de plus qu’une onomatopée qui ne laisse aucun doute sur le ton de cette œuvre (voir Thunder-Ten-Tronckh, le château de la situation initiale). Cette œuvre si ironique dès les premières lignes, ne laisse aucun doute sur l’origine de l’auteur, qui ne pouvait faire partie que des Lumières. Et de là à pense</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.feedbooks.com/book/3072</dc:identifier>
+        <dc:identifier opf:scheme="URN">urn:uuid:c706a228-d400-11e1-b597-001cc0a62c0b</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Roman</dc:subject>
+        <meta content="{&quot;Voltaire&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-06T23:43:11+00:00" name="calibre:timestamp"/>
+        <meta content="Candide, ou l'Optimisme" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Candide, ou l'Optimisme - Voltaire.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

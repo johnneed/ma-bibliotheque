@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a31535c-e92d-4823-8e36-aac9a8b9c130</dc:identifier>
+        <dc:title>You Don't Know JS ES6 &amp; Beyond</dc:title>
+        <dc:creator opf:file-as="Simpson, Kyle" opf:role="aut">Kyle Simpson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-07T13:00:18+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kyle Simpson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-20T23:12:03+00:00" name="calibre:timestamp"/>
+        <meta content="You Don't Know JS ES6 &amp; Beyond" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="You Don't Know JS ES6 &amp; Beyond - Kyle Simpson.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
